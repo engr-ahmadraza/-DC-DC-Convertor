@@ -1,1 +1,2 @@
-# -DC-DC-Convertor
+# DC-DC-Convertor
+This project involves designing a 3.7V to 9V boost converter using the MC34063 DC-to-DC converter IC to step up the voltage from a low-power source like a lithium-ion battery. The circuit efficiently increases the input voltage to 9V using an inductor, capacitors, and diodes. This boost converter is useful for powering devices requiring higher voltages, such as battery-powered electronics and LED drivers.
